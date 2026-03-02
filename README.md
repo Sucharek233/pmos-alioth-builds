@@ -15,6 +15,6 @@ This repository preserves working postmarketOS builds for the Poco F3 (codename 
 ### Builds index
 - Build date format: `YYYY-MM-DD`
 
-| Build Date | Author                                        | Release                                                                                   | | Kernel Version   | DE                  | | Username | Password |
-| ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |-| --------------   | ------------------- |-| -------- | -------- |
-| 2026-02-27 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-02-27_275d3be) | | `6.15.1-sm8250`  | Phosh               | | `ayu`    | `147147` |
+| ID | | Build Date | Author                                        | Release                                                                                   | | Kernel Version   | DE                  | | Username | Password |
+| -- |-| ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |-| --------------   | ------------------- |-| -------- | -------- |
+| 1  | | 2026-02-27 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-02-27_275d3be) | | `6.15.1-sm8250`  | Phosh               | | `ayu`    | `147147` |
