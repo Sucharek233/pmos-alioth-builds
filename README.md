@@ -17,6 +17,7 @@ This repository preserves working postmarketOS builds for the Poco F3 (codename 
 
 | ID | | Build Date | Author                                        | Release                                                                                   | | Kernel Version   | DE                  | | Username | Password |
 | -- |-| ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |-| --------------   | ------------------- |-| -------- | -------- |
-| 3  | | 2026-07-10 | [Ayushskull7](https://github.com/Ayushskull7)* | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-07-10_053e8a8) | | `6.15.1-sm8250`  | Phosh               | | `ayu`    | `147147` |
-| 2  | | 2026-04-10 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-04-10_275d3be) | | `6.15.1-sm8250`  | Phosh               | | `ayu`    | `147147` |
-| 1  | | 2026-02-27 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-02-27_275d3be) | | `6.15.1-sm8250`  | Phosh               | | `ayu`    | `147147` |
+| 4  | | 2026-08-16 | [kuikuiqwo](https://github.com/kuikuiqwo) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-08-16_b89c9ff) | | `6.15.1-sm8250`  | None | | `kui`    | `147147` |
+| 3  | | 2026-07-10 | [Ayushskull7](https://github.com/Ayushskull7)* | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-07-10_053e8a8) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
+| 2  | | 2026-04-10 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-04-10_275d3be) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
+| 1  | | 2026-02-27 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-02-27_275d3be) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
