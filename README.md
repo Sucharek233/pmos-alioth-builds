@@ -1,5 +1,7 @@
-# postmarketOS builds for Poco F3 (alioth)
-This repository preserves working postmarketOS builds for the Poco F3 (codename **alioth**).
+# Nura builds for Poco F3 (alioth)
+Formely known as postmarketOS. Learn more [here](https://nura.eco/blog/2026/09/27/nura-rename).
+
+This repository preserves working Nura builds for the Poco F3 (codename **alioth**).
 
 ## Disclaimer
 - All builds were originally produced by other developers
