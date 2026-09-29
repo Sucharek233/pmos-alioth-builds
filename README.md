@@ -1,5 +1,5 @@
 # Nura builds for Poco F3 (alioth)
-Formely known as postmarketOS. Learn more [here](https://nura.eco/blog/2026/09/27/nura-rename).
+Formerly known as postmarketOS. Learn more [here](https://nura.eco/blog/2026/09/27/nura-rename).
 
 This repository preserves working Nura builds for the Poco F3 (codename **alioth**).
 
@@ -19,6 +19,7 @@ This repository preserves working Nura builds for the Poco F3 (codename **alioth
 
 | ID | | Build Date | Author                                        | Release                                                                                   | | Kernel Version   | DE                  | | Username | Password |
 | -- |-| ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |-| --------------   | ------------------- |-| -------- | -------- |
+| 5  | | 2026-09-28 | [Ayushskull7](https://github.com/Ayushskull7)* | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-09-28_935d1cb) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
 | 4  | | 2026-08-16 | [kuikuiqwo](https://github.com/kuikuiqwo) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-08-16_b89c9ff) | | `6.15.1-sm8250`  | None | | `kui`    | `147147` |
 | 3  | | 2026-07-10 | [Ayushskull7](https://github.com/Ayushskull7)* | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-07-10_053e8a8) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
 | 2  | | 2026-04-10 | [Ayushskull7](https://github.com/Ayushskull7) | [Link](https://github.com/Sucharek233/pmos-alioth-builds/releases/tag/2026-04-10_275d3be) | | `6.15.1-sm8250`  | Phosh | | `ayu`    | `147147` |
